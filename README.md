@@ -6,32 +6,22 @@ This project, developed as part of a task assigned by Hematite Company, focuses 
 
 The provided dataset (in CSV format) covers:
 
-Sales transactions (Sales_Combined.csv)
-
-Product details (Products.csv, Categories.csv, Sub-Categories.csv)
-
-Customer information (Customers.csv)
-
-Geographical data (Territories.csv)
-
-Calendar mapping (Calendar_Table.csv)
-
-Returns data (Returns.csv)
-
+       Sales transactions (Sales_Combined.csv)
+       Product details (Products.csv, Categories.csv, Sub-Categories.csv)
+       Customer information (Customers.csv)
+       Geographical data (Territories.csv)
+       Calendar mapping (Calendar_Table.csv)
+       Returns data (Returns.csv)
+  
 Objectives of the Project:
-
-Import and clean data for structured SQL analysis.
-
-Perform data mining to discover patterns in sales and returns.
-
-Create SQL queries for key insights such as top-selling products, category-wise performance, seasonal trends, and customer behavior.
-
-Generate visualizations to present findings clearly and effectively.
+      
+      Import and clean data for structured SQL analysis.
+      Perform data mining to discover patterns in sales and returns.
+      Create SQL queries for key insights such as top-selling products, category-wise performance, seasonal trends, and customer behavior.
+      Generate visualizations to present findings clearly and effectively.
 
 Tools & Technologies Used:
 
-SQL (for querying and data mining)
-
-Data Visualization Tools (Power BI / Tableau / Excel)
-
-CSV-based relational data schema
+      SQL (for querying and data mining)
+      Data Visualization Tools (Power BI / Tableau / Excel)
+      CSV-based relational data schema
