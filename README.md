@@ -27,11 +27,33 @@ Tools & Technologies Used:
       CSV-based relational data schema
 
 
-Steps to Reproduce
-Set up SQL Server:
+** Steps to Reproduce
+    1. Set up SQL Server:
+        -- Execute the script found in create-combined-table.txt to create the combined table.
+    
+    2. Load Data into Power BI:
+        -- Open dashboard.pbix in Power BI Desktop.
+        -- Connect to your SQL Server and refresh the data to load the latest from the combined table.
 
-Execute the script found in create-combined-table.txt to create the combined table.
-Load Data into Power BI:
 
-Open dashboard.pbix in Power BI Desktop.
-Connect to your SQL Server and refresh the data to load the latest from the combined table.
+## Use Case
+
+--Work Assigned for Development of Adventure Cycle's Revenue and Product Analysis.
+
+ Dear Power Bi Developer 
+ We are assigning you this project on behalf of our company 'Hematite Infotech' to develop Dashboard on Adventures Cycle Sales  Analysis that Displays Key Performance Metrics for Informed Decision making.
+
+ Requirements :-
+ -- Revenue Analysis in various Time frames.
+ -- Product Sales and Return Analysis.
+ -- Customers Demographics.
+ -- Design Kpi's according to Datasets.
+
+ Design and Aesthetics :- Use Proper Combinations of Colors and Ensure the Dashboard is Easy to Navigate.
+
+ Data Source :- Dataset is Provided in the form of Excel sheets with Multiple tables.
+
+ Deadline: - 5 Days
+
+ Best Regards.
+
