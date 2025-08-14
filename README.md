@@ -25,3 +25,13 @@ Tools & Technologies Used:
       SQL (for querying and data mining)
       Data Visualization Tools (Power BI / Tableau / Excel)
       CSV-based relational data schema
+
+
+Steps to Reproduce
+Set up SQL Server:
+
+Execute the script found in create-combined-table.txt to create the combined table.
+Load Data into Power BI:
+
+Open dashboard.pbix in Power BI Desktop.
+Connect to your SQL Server and refresh the data to load the latest from the combined table.
