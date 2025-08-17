@@ -6,39 +6,39 @@ This project, developed as part of a task assigned by Hematite Company, focuses 
 
 The provided dataset (in CSV format) covers:
 
-       Sales transactions (Sales_Combined.csv)
-       Product details (Products.csv, Categories.csv, Sub-Categories.csv)
-       Customer information (Customers.csv)
-       Geographical data (Territories.csv)
-       Calendar mapping (Calendar_Table.csv)
-       Returns data (Returns.csv)
+       -Sales transactions (Sales_Combined.csv)
+       -Product details (Products.csv, Categories.csv, Sub-Categories.csv)
+       -Customer information (Customers.csv)
+       -Geographical data (Territories.csv)
+       -Calendar mapping (Calendar_Table.csv)
+       -Returns data (Returns.csv)
   
 Objectives of the Project:
       
-      Import and clean data for structured SQL analysis.
-      Perform data mining to discover patterns in sales and returns.
-      Create SQL queries for key insights such as top-selling products, category-wise performance, seasonal trends, and customer behavior.
-      Generate visualizations to present findings clearly and effectively.
+      -Import and clean data for structured SQL analysis.
+      -Perform data mining to discover patterns in sales and returns.
+      -Create SQL queries for key insights such as top-selling products, category-wise performance, seasonal trends, and customer behavior.
+      -Generate visualizations to present findings clearly and effectively.
 
 Tools & Technologies Used:
 
-      SQL (for querying and data mining)
-      Data Visualization Tools (Power BI / Tableau / Excel)
-      CSV-based relational data schema
+      1) SQL (for querying and data mining).
+      2) Data Visualization Tools (Power BI / Tableau / Excel).
+      3) CSV-based relational data schema.
 
 
-** Steps to Reproduce
+** Steps to Perform
     1. Set up SQL Server:
-        -- Execute the script found in create-combined-table.txt to create the combined table.
+        -- Execute the Queries Provided and Provide the Output For Analysis.
     
     2. Load Data into Power BI:
         -- Open dashboard.pbix in Power BI Desktop.
-        -- Connect to your SQL Server and refresh the data to load the latest from the combined table.
+        -- Connect to your CSV FILE and load the Data.
 
 
 ## Use Case
 
---Work Assigned for Development of Adventure Cycle's Revenue and Product Analysis.
+--Work Assigned for Development of Adventure Cycle's Revenue, Product, Customer Demogrphics Analysis.
 
  Dear Power Bi Developer 
  We are assigning you this project on behalf of our company 'Hematite Infotech' to develop Dashboard on Adventures Cycle Sales  Analysis that Displays Key Performance Metrics for Informed Decision making.
