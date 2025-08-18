@@ -57,3 +57,190 @@ Tools & Technologies Used:
 
  Best Regards.
 
+
+## Analysis and Recomendation
+
+1. Customer Demographics (Dashboard 1)
+Key Insights:
+
+Gender Split:
+
+Males: 50.65% (9.1K)
+
+Females: 49.35% (8.9K)
+→ Almost equal male-female distribution.
+
+Ordered Quantity by Gender:
+
+Male: 42K (50.68%)
+
+Female: 41K (49.32%)
+→ Very balanced purchasing, slight male dominance.
+
+Revenue Distribution:
+
+Male: $12.51M (50.53%)
+
+Female: $12.24M (49.47%)
+→ Revenue contribution is nearly equal.
+
+Income Contribution:
+
+Male: $523M (50.61%)
+
+Female: $510M (49.39%)
+→ High-income customers are balanced between genders.
+
+Top Products (by Gender):
+
+Water Bottle 30 oz, Patch Kit, Mountain Tire Tube, Road Tire Tube, AWC Logo Cap.
+
+Males buy slightly more Water Bottles & Patch Kits, females slightly more Tire Tubes.
+
+Country-wise:
+
+Each country has the same split (around 9.1K male, 8.9K female).
+→ Distribution is consistent across geographies.
+
+2. Product Analysis (Dashboard 2)
+Key Insights:
+
+Total Ordered Amount: $24.9M
+
+Total Ordered Quantity: 84.2K
+
+Returned Quantity: 1,828 (2.2% of orders)
+
+Returned Amount: $318.9K
+
+Category Performance:
+
+Bikes dominate: $23.6M revenue (~95%).
+
+Accessories: $0.91M
+
+Clothing: $0.37M
+
+Returns:
+
+Bikes: 301K ($) lost in returns (largest issue).
+
+Accessories: 13K
+
+Clothing: 5K
+→ Bikes have the highest return rate and cost.
+
+Top Ordered Products:
+
+Water Bottle (7.9K orders), Patch Kit (5.9K), Tire Tubes, AWC Logo Cap, Fenders.
+
+Accessories (Water Bottle, Patches) make up large order volumes but smaller revenue.
+
+Returned Products:
+
+Highest returns: Tires & Tubes (534 units), Road Bikes (223), Helmets (188).
+
+Indicates potential quality or sizing issues with these products.
+
+3. Revenue Analysis (Dashboard 3)
+Key Insights:
+
+Revenue: $24.91M
+
+Order Quantity: 84K
+
+Profit: $10.45M
+
+Monthly Revenue: $1.83M (above goal by 3.31%)
+
+Monthly Orders: 8,260 (above goal by 0.74%)
+→ Performance slightly exceeding targets.
+
+Quarterly Revenue Trend:
+
+Q1: $7.2M
+
+Q2: $8.7M (peak)
+
+Q3: $3.9M (big drop)
+
+Q4: $5.1M (partial recovery)
+→ Strong Q2, weak Q3 (seasonality or supply chain issues?).
+
+Category Revenue:
+
+Bikes: $23.6M (95%)
+
+Accessories: $0.91M
+
+Clothing: $0.38M
+→ Business heavily reliant on bikes.
+
+Sub-Category Revenue:
+
+Road Bikes: $11.28M
+
+Mountain Bikes: $8.58M
+
+Touring Bikes: $3.77M
+
+Others (helmets, bottles, clothing) very small.
+
+Top Products by Profit/Orders:
+
+Profit Leader: Mountain-200 Black ($1.24M)
+
+Order Leader: Water Bottle (30 oz)
+→ High-ticket bikes drive revenue, while accessories (bottles) drive order volume.
+
+Country-Wise Revenue:
+
+US: $7.93M
+
+Australia: $7.42M
+
+UK: $2.9M
+
+Germany: $2.5M
+ 
+France: $2.36M
+
+Canada: $1.77M
+→ Heavy reliance on US & Australia (60%+ of revenue).
+
+Recommendations: - 
+
+-- Reduce Returns in Bikes Category Because of High Value Loss: - Investigate quality issues in Tires, Tubes, and Helmets.
+
+1) Improving product descriptions, prociding size guides, and quality control.
+
+2) Taking feedback after purchase to reduce dissatisfaction understanding problem while usage.
+
+
+Expand clothing line to balance reliance on bikes.
+
+Seasonality Management:
+
+Huge revenue dip in Q3 → likely due to seasonal demand.
+
+Run promotions, launch new products, or expand markets to smoothen quarterly dips.
+
+Focus Q3 campaigns in northern hemisphere summer/winter sports seasons.
+
+Geographic Expansion:
+
+There is Heavy reliance on US & Australia.Target Europe (UK, Germany, France) with localized marketing.
+
+Explore emerging markets (Asia, South America).
+
+-- Customer Segmentation: -
+
+1) Gender revenue is balanced → marketing should remain gender-neutral.
+
+2) We can personalize recommendations based on gender because male customers buy more bike-related products, females buy more accessories related products.
+
+-- Profitability Focus: -
+
+1) High-margin products: Mountain-200 bikes We can push in campaigns and marketing.
+
+2) Low-margin but high-volume product "Water Bottles" can be used as entry products to attract new customers.
