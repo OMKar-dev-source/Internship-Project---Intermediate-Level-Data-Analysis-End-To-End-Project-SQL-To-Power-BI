@@ -105,22 +105,6 @@ Each country has the same split (around 9.1K male, 8.9K female).
 2. Product Analysis (Dashboard 2)
 Key Insights:
 
-Total Ordered Amount: $24.9M
-
-Total Ordered Quantity: 84.2K
-
-Returned Quantity: 1,828 (2.2% of orders)
-
-Returned Amount: $318.9K
-
-Category Performance:
-
-Bikes dominate: $23.6M revenue (~95%).
-
-Accessories: $0.91M
-
-Clothing: $0.37M
-
 Returns:
 
 Bikes: 301K ($) lost in returns (largest issue).
@@ -145,44 +129,14 @@ Indicates potential quality or sizing issues with these products.
 3. Revenue Analysis (Dashboard 3)
 Key Insights:
 
-Revenue: $24.91M
-
-Order Quantity: 84K
-
-Profit: $10.45M
-
 Monthly Revenue: $1.83M (above goal by 3.31%)
 
 Monthly Orders: 8,260 (above goal by 0.74%)
 → Performance slightly exceeding targets.
 
-Quarterly Revenue Trend:
-
-Q1: $7.2M
-
-Q2: $8.7M (peak)
-
-Q3: $3.9M (big drop)
-
-Q4: $5.1M (partial recovery)
-→ Strong Q2, weak Q3 (seasonality or supply chain issues?).
-
 Category Revenue:
 
-Bikes: $23.6M (95%)
-
-Accessories: $0.91M
-
-Clothing: $0.38M
 → Business heavily reliant on bikes.
-
-Sub-Category Revenue:
-
-Road Bikes: $11.28M
-
-Mountain Bikes: $8.58M
-
-Touring Bikes: $3.77M
 
 Others (helmets, bottles, clothing) very small.
 
@@ -190,22 +144,10 @@ Top Products by Profit/Orders:
 
 Profit Leader: Mountain-200 Black ($1.24M)
 
-Order Leader: Water Bottle (30 oz)
 → High-ticket bikes drive revenue, while accessories (bottles) drive order volume.
 
 Country-Wise Revenue:
 
-US: $7.93M
-
-Australia: $7.42M
-
-UK: $2.9M
-
-Germany: $2.5M
- 
-France: $2.36M
-
-Canada: $1.77M
 → Heavy reliance on US & Australia (60%+ of revenue).
 
 Recommendations: - 
